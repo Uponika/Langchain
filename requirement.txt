@@ -3,3 +3,6 @@ openai
 huggingface_hub
 python-dotenv
 streamlit
+weaviate-client
+tiktoken
+pypdf
